@@ -60,6 +60,13 @@ function generatePassword() {
     console.log("confirmSpecial ", confirmSpecial);
     console.log("possibleChars ", possibleChars)
 
+  myPassword = [];
+  for (i = 0; i < amount; i++) {
+    var randomPass =
+     Math.floor(Math.random) * possibleChars.length;
+     myPassword.push(possibleChars[randomPass])
+  }
+
 
 } else {
   alert("Password must be between 8-128 characters");
