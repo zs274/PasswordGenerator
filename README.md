@@ -27,6 +27,8 @@ This assignment was quite challenging, and it took longer than I thought it woul
 
 ## Link to deployed password generator
 
+https://zs274.github.io/PasswordGenerator/
+
 ## Screenshots
 ![passgen](https://user-images.githubusercontent.com/74627515/102718722-89171c00-42e1-11eb-9c23-69806d3d5318.png)
 ![passgen](https://user-images.githubusercontent.com/74627515/102718908-bdd7a300-42e2-11eb-9bfd-90a45ceeb5ab.png)
